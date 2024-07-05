@@ -1,4 +1,4 @@
-id	                        1                                                       TINYINT(255)    UNSIGNED    NO_NULL
+id	                        1                                                       TINYINT(255)    UNSIGNED    NO_NULL     PRIMARY_KEY
 marca	                    Fiat                                                    VARHCAR(20)                 NO_NULL
 modello	                    Panda                                                   VARCHAR(20)                 NO_NULL
 anno_immatricolazione	    2018                                                    YEAR                        NO_NULL
