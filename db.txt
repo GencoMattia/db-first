@@ -1,0 +1,16 @@
+id	                        1                                                       TINYINT(255)    UNSIGNED    NO_NULL
+marca	                    Fiat                                                    VARHCAR(20)                 NO_NULL
+modello	                    Panda                                                   VARCHAR(20)                 NO_NULL
+anno_immatricolazione	    2018                                                    YEAR                        NO_NULL
+chilometraggio	            50000                                                   MEDIUMINT       UNSIGNED    NO_NULL
+alimentazione	            Benzina                                                 VARCHAR(20)                 NO_NULL
+prezzo	                    8500.00                                                 FLOAT(8,2)      UNSIGNED    NULL
+descrizione	                Ottime condizioni, unico proprietario, gomme nuove      TEXT                        NULL
+data_inserimento	        15/05/2023                                              DATE                        NULL
+venduta	                    No                                                      BOOLEAN                     NO_NULL
+immagine	                /immagini/fiat_panda.jpg                                VARCHAR(255)                NULL
+id_concessionario	        1                                                       SMALLINT        UNSIGNED    NO_NULL
+colore	                    Bianco                                                  VARCHAR(20)                 NO_NULL
+n_porte	                    5                                                       TINYINT(10)     UNSIGNED    NO_NULL
+tipologia	                Utilitaria                                              VARCHAR(50)                 NO_NULL
+cambio                      Manuale							 	                    VARCHAR(20)				    NO_NULL
