@@ -4,7 +4,7 @@ modello	                    Panda                                               
 anno_immatricolazione	    2018                                                    YEAR                        NO_NULL
 chilometraggio	            50000                                                   MEDIUMINT       UNSIGNED    NO_NULL
 alimentazione	            Benzina                                                 VARCHAR(20)                 NO_NULL
-prezzo	                    8500.00                                                 FLOAT(8,2)      UNSIGNED    NULL
+prezzo	                    8500.00                                                 DECIMAL(10,2)      UNSIGNED    NULL
 descrizione	                Ottime condizioni, unico proprietario, gomme nuove      TEXT                        NULL
 data_inserimento	        15/05/2023                                              DATE                        NULL
 venduta	                    No                                                      BOOLEAN                     NO_NULL
